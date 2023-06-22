@@ -1,0 +1,29 @@
+Added Component: Designator=D3(red led)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(10K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(1K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(1K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(1K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U4(ESP8266)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=SWatch_Sheematic Member=Component C4 4.3pF
+Added Member To Class: ClassName=SWatch_Sheematic Member=Component C6 12pF
+Added Member To Class: ClassName=SWatch_Sheematic Member=Component C7 470 nF C805
+Added Member To Class: ClassName=SWatch_Sheematic Member=Component C8 100 nF
+Added Member To Class: ClassName=SWatch_Sheematic Member=Component C9 4.7uF C805
+Added Member To Class: ClassName=SWatch_Sheematic Member=Component D3 green red
+Added Member To Class: ClassName=SWatch_Sheematic Member=Component R1 0.4 ohm R805
+Added Member To Class: ClassName=SWatch_Sheematic Member=Component R3 5.1K R805
+Added Member To Class: ClassName=SWatch_Sheematic Member=Component R7 Rprog
+Added Member To Class: ClassName=SWatch_Sheematic Member=Component R8 0.4 ohm R805
+Added Member To Class: ClassName=SWatch_Sheematic Member=Component R9 0.4 ohm R805
+Added Member To Class: ClassName=SWatch_Sheematic Member=Component R10 5.1K R805
+Added Member To Class: ClassName=SWatch_Sheematic Member=Component U1 LD1117DT3.3V
+Added Member To Class: ClassName=SWatch_Sheematic Member=Component U2 STM32F411CEU6
+Added Member To Class: ClassName=SWatch_Sheematic Member=Component U3 TP4056
+Added Member To Class: ClassName=SWatch_Sheematic Member=Component U4 ESP8266
+Added Room: Name=SWatch_Sheematic

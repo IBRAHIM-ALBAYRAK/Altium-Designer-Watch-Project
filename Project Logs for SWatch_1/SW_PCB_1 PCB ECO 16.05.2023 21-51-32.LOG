@@ -1,0 +1,4 @@
+Added Component: Designator=J3(fpc)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=SWatch_Sheematic Member=Component J3 FPC
+Added Room: Name=SWatch_Sheematic

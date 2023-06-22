@@ -1,0 +1,24 @@
+Added Component: Designator=U2(FPC)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=NetU1_40 Pin=U2-2
+Added Pin To Net: NetName=3.3V Pin=U2-3
+Added Pin To Net: NetName=NetU1_46 Pin=U2-4
+Added Pin To Net: NetName=NetR13_1 Pin=U2-5
+Added Pin To Net: NetName=NetR10_1 Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=NetR9_2 Pin=U2-9
+Added Pin To Net: NetName=NetQ1_3 Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-11
+Added Pin To Net: NetName=3.3V Pin=U2-12
+Added Pin To Net: NetName=3.3V Pin=U2-13
+Added Pin To Net: NetName=NetU1_13 Pin=U2-14
+Added Pin To Net: NetName=NetU1_12 Pin=U2-15
+Added Pin To Net: NetName=NetU1_11 Pin=U2-16
+Added Pin To Net: NetName=NetU1_17 Pin=U2-17
+Added Pin To Net: NetName=NetU1_15 Pin=U2-18
+Added Pin To Net: NetName=GND Pin=U2-20
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component U2 FPC
+Added Room: Name=SWatch_Schematic_1
+Added Room: Name=SWatch_Schematic_2

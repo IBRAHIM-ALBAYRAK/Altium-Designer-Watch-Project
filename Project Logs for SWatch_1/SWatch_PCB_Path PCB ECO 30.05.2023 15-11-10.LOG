@@ -1,0 +1,364 @@
+Added Component: Designator=B1(SMD BUZZER)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(4.3 pF C805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(4.3 pF C805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(12pF C805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(12pF C805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(0.1 uF C805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(100 nF C805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(10uF C805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C8(10uF C805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(10uF C805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C10(100 nF C805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C11(100 nF C805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C12(100 nF C805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C13(100 nF C805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C14(100 nF C805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C15(1 uF C805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C16(4.3 pF C805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C17(100 nF C805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(1N4148WS-7-F Diyot)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(led)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(led)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(12401832E402A TYPE-C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(BAT -+)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(BC848CLT1G NPN Transistör)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(10K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(10K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(1K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(10K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(10K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(10K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(10K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(10K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(1K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(10K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R11(1K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R12(10K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R13(10K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R14(10K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R15(1K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R16(10K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R17(10K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R18(1.2K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R19(1K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R20(1K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R21(10K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R22(1K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R23(1K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R24(1.2K R805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW1(WakeUp BTN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW2(WakeUp BTN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(STM32F411CEU6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(FPC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(LD1117DT3.3V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U4(ESP8266)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U5(TP4056)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Y1(32.768 KHZ RTC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Y2(ABM8G25000MHZ4YT3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=3.3V Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=VBAT Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=VBAT Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=3.3V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=3.3V Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=3.3V Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=3.3V Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=3.3V Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=3.3V Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=3.3V Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_c Pin=D1-C
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetC7_1 Pin=D2-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetC7_1 Pin=D3-2
+Added Pin To Net: NetName=GND Pin=J1-A1
+Added Pin To Net: NetName=USB_VBUS Pin=J1-A4
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Pin To Net: NetName=NetJ1_A6 Pin=J1-A6
+Added Pin To Net: NetName=NetJ1_A7 Pin=J1-A7
+Added Pin To Net: NetName=USB_VBUS Pin=J1-A9
+Added Pin To Net: NetName=GND Pin=J1-A12
+Added Pin To Net: NetName=GND Pin=J1-B1
+Added Pin To Net: NetName=USB_VBUS Pin=J1-B4
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Pin To Net: NetName=NetJ1_A6 Pin=J1-B6
+Added Pin To Net: NetName=NetJ1_A7 Pin=J1-B7
+Added Pin To Net: NetName=USB_VBUS Pin=J1-B9
+Added Pin To Net: NetName=GND Pin=J1-B12
+Added Pin To Net: NetName=GND Pin=J1-S1
+Added Pin To Net: NetName=GND Pin=J1-S2
+Added Pin To Net: NetName=GND Pin=J1-S3
+Added Pin To Net: NetName=GND Pin=J1-S4
+Added Pin To Net: NetName=VBAT Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=NetC16_2 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=3.3V Pin=R2-2
+Added Pin To Net: NetName=NetC7_1 Pin=R3-1
+Added Pin To Net: NetName=USB_VBUS Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=3.3V Pin=R4-2
+Added Pin To Net: NetName=NetR2_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetR2_1 Pin=R6-2
+Added Pin To Net: NetName=NetR4_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetR4_1 Pin=R8-2
+Added Pin To Net: NetName=3.3V Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=3.3V Pin=R10-2
+Added Pin To Net: NetName=3.3V Pin=R11-1
+Added Pin To Net: NetName=NetR9_2 Pin=R11-2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR10_1 Pin=R12-2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=3.3V Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=NetR10_1 Pin=R14-2
+Added Pin To Net: NetName=NetD1_c Pin=R15-1
+Added Pin To Net: NetName=NetC16_2 Pin=R15-2
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR13_1 Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=NetR13_1 Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=NetC16_2 Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=NetJ1_A5 Pin=R19-2
+Added Pin To Net: NetName=NetJ1_B5 Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=3.3V Pin=R21-1
+Added Pin To Net: NetName=NetC17_1 Pin=R21-2
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetD2_1 Pin=R22-2
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetD3_1 Pin=R23-2
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=GND Pin=R24-2
+Added Pin To Net: NetName=NetSW1_1 Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=NetSW1_1 Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Pin To Net: NetName=NetC17_1 Pin=SW2-1
+Added Pin To Net: NetName=GND Pin=SW2-2
+Added Pin To Net: NetName=NetC17_1 Pin=SW2-3
+Added Pin To Net: NetName=GND Pin=SW2-4
+Added Pin To Net: NetName=NetC1_2 Pin=U1-3
+Added Pin To Net: NetName=NetC2_2 Pin=U1-4
+Added Pin To Net: NetName=NetC3_2 Pin=U1-5
+Added Pin To Net: NetName=NetC4_2 Pin=U1-6
+Added Pin To Net: NetName=NetC17_1 Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=3.3V Pin=U1-9
+Added Pin To Net: NetName=NetSW1_1 Pin=U1-10
+Added Pin To Net: NetName=NetU1_11 Pin=U1-11
+Added Pin To Net: NetName=NetU1_12 Pin=U1-12
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Pin To Net: NetName=3.3V Pin=U1-14
+Added Pin To Net: NetName=NetU1_15 Pin=U1-15
+Added Pin To Net: NetName=NetD1_A Pin=U1-16
+Added Pin To Net: NetName=NetU1_17 Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=3.3V Pin=U1-24
+Added Pin To Net: NetName=NetR7_2 Pin=U1-30
+Added Pin To Net: NetName=NetR5_2 Pin=U1-31
+Added Pin To Net: NetName=NetJ1_A6 Pin=U1-34
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=3.3V Pin=U1-36
+Added Pin To Net: NetName=NetJ1_A7 Pin=U1-37
+Added Pin To Net: NetName=NetU1_40 Pin=U1-40
+Added Pin To Net: NetName=NetR12_1 Pin=U1-42
+Added Pin To Net: NetName=NetR16_1 Pin=U1-43
+Added Pin To Net: NetName=NetR1_1 Pin=U1-44
+Added Pin To Net: NetName=NetU1_46 Pin=U1-46
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=3.3V Pin=U1-48
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=NetU1_40 Pin=U2-2
+Added Pin To Net: NetName=NetU2_3 Pin=U2-3
+Added Pin To Net: NetName=NetU1_46 Pin=U2-4
+Added Pin To Net: NetName=NetR13_1 Pin=U2-5
+Added Pin To Net: NetName=NetR10_1 Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=NetR9_2 Pin=U2-9
+Added Pin To Net: NetName=NetQ1_3 Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-11
+Added Pin To Net: NetName=3.3V Pin=U2-12
+Added Pin To Net: NetName=3.3V Pin=U2-13
+Added Pin To Net: NetName=NetU1_13 Pin=U2-14
+Added Pin To Net: NetName=NetU1_12 Pin=U2-15
+Added Pin To Net: NetName=NetU1_11 Pin=U2-16
+Added Pin To Net: NetName=NetU1_17 Pin=U2-17
+Added Pin To Net: NetName=NetU1_15 Pin=U2-18
+Added Pin To Net: NetName=GND Pin=U2-20
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=VBAT Pin=U3-3
+Added Pin To Net: NetName=3.3V Pin=U3-4
+Added Pin To Net: NetName=3.3V Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-15
+Added Pin To Net: NetName=NetR4_1 Pin=U4-21
+Added Pin To Net: NetName=NetR2_1 Pin=U4-22
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=NetR24_1 Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=NetC7_1 Pin=U5-4
+Added Pin To Net: NetName=VBAT Pin=U5-5
+Added Pin To Net: NetName=NetR22_1 Pin=U5-6
+Added Pin To Net: NetName=NetR23_1 Pin=U5-7
+Added Pin To Net: NetName=NetC7_1 Pin=U5-8
+Added Pin To Net: NetName=NetC1_2 Pin=Y1-1
+Added Pin To Net: NetName=NetC2_2 Pin=Y1-2
+Added Pin To Net: NetName=NetC4_2 Pin=Y2-1
+Added Pin To Net: NetName=NetC3_2 Pin=Y2-3
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=U1-29
+Added Net: Name=NetB1_1
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component B1 SMD BUZZER
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component C1 4.3pF
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component C2 4.3pF
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component C3 12pF
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component C4 12pF
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component C5 0.1 uF C805
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component C6 100 nF
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component C7 10 uF
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component C8 10 uF
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component C9 10 uF
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component C10 100 nF
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component C11 100 nF
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component C12 100 nF
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component C13 100 nF
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component C14 100 nF
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component C15 1 uF C805
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component C16 10nF C805
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component C17 100 nF
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component D1 1N4148WS-7-F Diyot
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component D2 805 led
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component D3 805 led
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component J1 12401832E402A TYPE-C
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component J2 BAT +-
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component Q1 BC848CLT1G NPN Transistör
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component R1 10K R805
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component R2 10K R805
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component R3 0.4 ohm R805
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component R4 10K R805
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component R5 10K R805
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component R6 10K R805
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component R7 10K R805
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component R8 10K R805
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component R9 RA1 R805
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component R10 10K R805
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component R11 RA2 R805
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component R12 10K R805
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component R13 10K R805
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component R14 10K R805
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component R15 1K R805
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component R16 10K R805
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component R17 10K R805
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component R18 5k R805
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component R19 5.1K R805
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component R20 5.1K R805
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component R21 10K R805
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component R22 1K R805
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component R23 1K R805
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component R24 1.2K R805
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component SW1 WakeUP BTN
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component SW2 WakeUP BTN
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component U1 STM32F411CEU6
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component U2 FPC
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component U3 LD1117DT3.3V
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component U4 ESP8266
+Added Member To Class: ClassName=SWatch_Schematic_2 Member=Component U5 TP4056
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component Y1 RTC Kristal
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component Y2 ABM8G25000MHZ4YT3
+Added Room: Name=SWatch_Schematic_1
+Added Room: Name=SWatch_Schematic_2

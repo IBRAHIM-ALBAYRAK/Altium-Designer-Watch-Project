@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=3.3V Pin=U2-3
+Added Member To Class: ClassName=SWatch_Schematic_1 Member=Component C11 100 nF
+Added Room: Name=SWatch_Schematic_1
+Added Room: Name=SWatch_Schematic_2

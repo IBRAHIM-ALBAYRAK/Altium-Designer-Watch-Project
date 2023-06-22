@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PCB_SWatch_VER1.PcbDoc]
+   Generated File[PCB_SWatch_VER1-RoundHoles.TXT]
+   Generated File[PCB_SWatch_VER1-SlotHoles.TXT]
+   Generated File[PCB_SWatch_VER1.LDP]
+   Generated File[PCB_SWatch_VER1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 13:54:04 On 2.06.2023
